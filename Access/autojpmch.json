@@ -1,0 +1,12 @@
+{
+  "active": false,
+  "message": "kontol",
+  "interval": 15,
+  "delay": 1,
+  "nextSchedule": null,
+  "lastRun": null,
+  "stats": {
+    "totalSuccess": 0,
+    "totalFailed": 0
+  }
+}
